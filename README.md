@@ -1,52 +1,59 @@
-# 🚀 CivicPulse – AI-Based Civic Issue Tracking Platform
+# CivicPulse
 
-CivicPulse is an AI-powered civic issue management platform that enables citizens to report public problems such as potholes, garbage accumulation, water leakage, streetlight failures, and more. The platform helps streamline complaint management through role-based dashboards, status tracking, and intelligent issue categorization.
+CivicPulse is an AI-powered civic issue management platform that enables citizens to report public problems such as potholes, garbage accumulation, water leakage, streetlight failures, and more. The platform streamlines complaint management through role-based dashboards, status tracking, and intelligent issue categorization.
 
 ---
 
-# 📌 Features
+# Features
 
-## 👤 User Features
-- User Authentication (Login/Register)
+## User Features
+
+- User authentication (Login/Register)
 - Submit civic complaints
 - Upload issue images
 - Track complaint status in real time
 
-## 👨‍🔧 Worker Features
+## Worker Features
+
 - View assigned complaints
 - Update issue progress
 - Mark complaints as resolved
 
-## 🛠 Admin Features
+## Admin Features
+
 - Manage all complaints
 - Assign workers to issues
 - Monitor complaint workflow
 - Track issue resolution status
 
-## 🤖 AI Features
+## AI Features
+
 - AI-based issue categorization
 - Automated complaint classification
 
 ---
 
-# 🏗 Tech Stack
+# Tech Stack
 
 ## Frontend
+
 - React.js
 - HTML5
 - CSS3
 - JavaScript
 
 ## Backend & Database
+
 - Supabase
 
 ## Tools & Technologies
+
 - Git
 - GitHub
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 CivicPulse/
@@ -62,27 +69,27 @@ CivicPulse/
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation and Setup
 
-## 1️⃣ Clone the Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/civicpulse.git
 ```
 
-## 2️⃣ Navigate to Project Folder
+## 2. Navigate to the Project Folder
 
 ```bash
 cd civicpulse
 ```
 
-## 3️⃣ Install Dependencies
+## 3. Install Dependencies
 
 ```bash
 npm install
 ```
 
-## 4️⃣ Run the Project
+## 4. Run the Project
 
 ```bash
 npm start
@@ -90,9 +97,9 @@ npm start
 
 ---
 
-# 🔑 Environment Variables
+# Environment Variables
 
-Create a `.env` file in the root directory and add:
+Create a `.env` file in the root directory and add the following:
 
 ```env
 SUPABASE_URL=your_supabase_url
@@ -101,23 +108,27 @@ SUPABASE_ANON_KEY=your_supabase_key
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
-## 🏠 Home Page
-(Add screenshot here)
+## Home Page
 
-## 📝 Complaint Submission
-(Add screenshot here)
+_Add screenshot here_
 
-## 🛠 Admin Dashboard
-(Add screenshot here)
+## Complaint Submission Page
 
-## 👨‍🔧 Worker Dashboard
-(Add screenshot here)
+_Add screenshot here_
+
+## Admin Dashboard
+
+_Add screenshot here_
+
+## Worker Dashboard
+
+_Add screenshot here_
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Improve civic issue reporting efficiency
 - Provide transparency in complaint tracking
@@ -126,7 +137,7 @@ SUPABASE_ANON_KEY=your_supabase_key
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Real-time notifications
 - Interactive map integration
@@ -136,13 +147,13 @@ SUPABASE_ANON_KEY=your_supabase_key
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Unnathi Hegde**  
 CSE Student | Aspiring Software Engineer
 
 ---
 
-# ⭐ Support
+# Support
 
-If you liked this project, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a star on GitHub.
